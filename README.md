@@ -1,9 +1,8 @@
 ### Olá!! 🖖
 
 
-
-- 🔭 Trabalhando em projetos com html, css, javascript, power bi/qlik sense
-- 🌱 Quero aprender sql
+ 🔭 Trabalhando primeiro em projetos com html, css, javascript, power bi
+ 🌱 Quero aprender sql, python
 
 
 
