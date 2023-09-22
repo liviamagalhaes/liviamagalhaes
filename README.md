@@ -9,6 +9,6 @@ Bem-vindx ao meu perfil.
 <p>
 <strong>+Plus:</strong>
 Em migração de carreira. 
-Formada em Produção Editorial.
+Formada em Produção Editorial/Comunicação Social
 </p>
 
